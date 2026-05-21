@@ -1,9 +1,9 @@
 # 🎟️ ADVANCED TICKET BOOKING SYSTEM 🎟️
 ---
-## 🚀 PROJECT DESCRIPTION
+### 🚀 PROJECT DESCRIPTION
 This project is a SQL-based Advanced Ticket Booking System designed to handle high-concurrency seat booking operations safely and efficiently.
 ---
-## ✨ FEATURES
+###✨ FEATURES
 ✔️ Database Schema Design  
 ✔️ Transaction-safe Booking  
 ✔️ Parallel Booking Handling  
@@ -13,12 +13,12 @@ This project is a SQL-based Advanced Ticket Booking System designed to handle hi
 ✔️ Isolation Level Analysis  
 ✔️ Waiting Queue System  
 ---
-## 🛠️ TECHNOLOGIES USED
+### 🛠️ TECHNOLOGIES USED
 🔹 MySQL  
 🔹 SQL Transactions  
 🔹 GitHub  
 
-## 📂 PROJECT STRUCTURE
+### 📂 PROJECT STRUCTURE
 
 ### 📁 SQL_FILES
 📄 schema.sql  
@@ -38,7 +38,7 @@ This project is a SQL-based Advanced Ticket Booking System designed to handle hi
 🖼️ isolation_output.png  
 🖼️ bonus_output.png  
 ---
-## 🎯 EXPECTED OUTCOME
+### 🎯 EXPECTED OUTCOME
 ✅ No double booking  
 ✅ Safe concurrent transactions  
 ✅ Efficient multi-user handling  
