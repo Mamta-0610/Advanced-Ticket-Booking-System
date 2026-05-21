@@ -47,7 +47,7 @@ CREATE TABLE Bookings (
 
 
 -- ==========================================
--- INSERT SAMPLE DATA
+-- INSERT DATA
 -- ==========================================
 INSERT INTO Users(name,email)
 VALUES ('Rahul','rahul@gmail.com');
@@ -59,7 +59,7 @@ INSERT INTO Seats(trip_id,seat_number)
 VALUES (1,1),(1,2),(1,3);
 
 -- ==========================================
--- CHECK Q1 OUTPUT
+-- CHECK OUTPUT
 -- ==========================================
 SHOW TABLES;
 DESC Users;
