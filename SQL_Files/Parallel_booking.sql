@@ -1,5 +1,5 @@
 -- =====================================================
--- Q3. Parallel Booking Handling
+--  Parallel Booking Handling
 -- =====================================================
 START TRANSACTION;
 
@@ -22,7 +22,7 @@ COMMIT;
 
 
 -- ==========================================
--- CHECK Q3 OUTPUT
+-- CHECK  OUTPUT
 -- ==========================================
 SELECT * FROM Seats;
 SELECT * FROM Bookings;
