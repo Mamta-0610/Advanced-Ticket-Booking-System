@@ -22,4 +22,9 @@ VALUES (1,1,'CONFIRMED');
 COMMIT;
 
 -- ONLY FOR FAILURE DEMO
--- ROLLBACK;
+   ROLLBACK;
+-- ==========================================
+-- CHECK  OUTPUT
+-- ==========================================
+SELECT * FROM Seats;
+SELECT * FROM Bookings;
