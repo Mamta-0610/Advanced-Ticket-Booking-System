@@ -41,3 +41,14 @@ VALUES (1,1);
 -- CHECK OUTPUT
 -- ==========================================
 SELECT * FROM WaitingQueue;
+
+
+
+-- ==========================================
+-- FINAL OUTPUT CHECK
+-- ==========================================
+SELECT * FROM Users;
+SELECT * FROM Trips;
+SELECT * FROM Seats;
+SELECT * FROM Bookings;
+SELECT * FROM WaitingQueue;
